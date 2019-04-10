@@ -1,5 +1,5 @@
 #Car Location Monitoring System
-##All rights are reserved by Xiaobo Liu
+##All rights are reserved by jrwang
 
 ##Service Start Sequence
 1. docker-compose up
